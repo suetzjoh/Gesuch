@@ -1,0 +1,232 @@
+<document name='Marvels' author='Anonymous'>
+	<lpp nr="Smpl 1" translator="\cite{Marvels}">
+		<z nr="2"><year nr="997–1016"/><trans en="The colony is at the beginning of the land Antimolima, which land is 500 in the tally of the lesser measurement, which are called stadia, and 368 of the greater, which are called leuuae."/>Seo landbuend on fruman from antimolime þæm lande , þæs</z>
+		<z nr="3">landes is on gerime þæs læssan milgetæles</z>
+		<z nr="4">þe stadio <match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.sg.ind.prs.pass." neg="0" clause="relSatz-a" cnj="þe" obj="prn" obj_cs="nom" ad="ġetæl" ad_bel="unbel">hatte</match> fif hund , &amp; þæs miclan þe leones</z>
+		<z nr="5"><match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.sg.ind.prs.pass." neg="0" clause="relSatz-a" cnj="þe" obj="prn" obj_cs="nom" ad="ġetæl" ad_bel="unbel">hatte</match> þreo hund &amp; eahta &amp; lx .</z>
+		<z nr="6"><trans en="On that island there is a great multitude of sheep,"/>On þæm ealande bið micel mænegeo sceapa .</z>
+		<z nr="7"><trans en="and from there to Babylon it is 168 of the lesser measurement called stadia, and 115 in the greater measurement called leuuae."/>And þanon is to babilonian þæs læssan milgetæles</z>
+		<z nr="8">stadio hundteontig &amp; eahta &amp; lx , &amp; þæs miclan</z>
+		<z nr="9">milgetæles þe leones <match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.sg.ind.prs.pass." neg="0" clause="relSatz-a" cnj="þe" obj="prn" obj_cs="nom" ad="ġetæl" ad_bel="unbel">hatte</match> fiftyne &amp; hundteontig .</z>
+		<z nr="10"><trans en="The colony is mostly populated with merchants; there are rams born there as big as oxen, living right up to the city of the Medes."/>Seo londbunis <match lm="wesan" status="aux" gram="3.sg.ind.prs.">is</match> swyðust cepemonnum <match pfx="ge" lm="settan" sem="besiedeln" status="aspekt" gram="3.sg.ind.perf.pass." neg="0" clause="HS" cnj="þæt" obj="sub" obj_cs="nom" ad="būnes" ad_bel="unbel" pr_obj="dat">geseted</match> , þær</z>
+		<z nr="11">beoð weðras acenned on oxna micelnesse þa</z>
+		<z nr="12"><match pfx="0" lm="būan" status="prc-only" gram="3.pl.ind.prs." neg="0" clause="app">buað</match> oð meda burh .</z>
+		<z nr="13"><trans en="The name of that city is Archemedon."/>þære burge nama is archemedon .</z>
+		<z nr="14"><trans en="It is the biggest city after Babylon."/>Sio is mæst to babilonia burh .</z>
+		<z nr="15"><trans en="To there from Archemedon is 300 of the lesser measurement, stadia, and 200 of the greater, called leuuae."/>þonon syndon þæs læssan milgetæles stadi ccc &amp;</z>
+		<z nr="16">þæs maran þe leon <match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.sg.ind.prs.pass." neg="0" clause="relSatz-a" cnj="þe" obj="prn" obj_cs="nom" ad="ġetæl" ad_bel="unbel">hatte</match> cc from archemedon .</z>
+		<z nr="17"><trans en="There are great monuments there, which are the works which the mighty Alexander of Macedon had made."/>þær syndon þa miclan mærða þæt syndon þa weorc þe</z>
+		<z nr="18">se micla macedonisca alexsander <match pfx="0" lm="hātan" sem="befehlen" status="sem" gram="3.sg.ind.prt." neg="0" clause="relSatz" cnj="þe" obj="AcI">het</match> <match pfx="ge" lm="wyrċan" sem="bauen" status="tel" gram="inf." reg="hātan" neg="0" clause="relSatz" cnj="þe" obj="prn" obj_cs="akk" ad="weorc" ad_bel="unbel">gewyrcan</match> .</z>
+		<z nr="19"><trans en="The land is in length and breadth 200 of the lesser measurement, stadia, and 133 and a half of the greater, called leuuae."/>þæt land is on lenge , &amp; on bræde cc þæs læssan</z>
+		<z nr="20">milgetæles stadi &amp; þæs miclan þe leones <match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.sg.ind.prs.pass." neg="0" clause="relSatz-a" cnj="þe" obj="prn" obj_cs="nom" ad="ġetæl" ad_bel="unbel">hatte</match></z>
+		<z nr="21">c xxx &amp; healf mil .</z>
+		<z nr="22"><trans en="As you go towards the Red Sea there is a place called Lentibeisinea, where there are hens born like ours, red in color. If any one tries to take or touch them, they immediately burn up all his body."/>Sum stow is mon fereð to þære readan sæ &#8228;</z>
+		<z nr="23">Seo <match lm="wesan" status="aux" gram="3.sg.ind.prs.">is</match> <match pfx="0" lm="hātan" sem="nennen" status="sem" gram="3.sg.ind.perf.pass." neg="0" clause="HS" obj="prn" obj_cs="nom" ad="sǣ" ad_bel="unbel">haten</match> lentibelsinea , þæm beoð henna acenned</z>
+		<z nr="24">onlice þonne þe mid us beoð reades heowes &#8228;</z>
+		<z nr="25">Gif hi hwylc man <match pfx="0" lm="niman" status="?" gram="inf." reg="willan" neg="0" clause="kondSatz" cnj="ġif" obj="prn" obj_cs="akk" ad="hīe" ad_bel="anim">niman</match> <match lm="willan" status="modalverb" gram="3.sg.ind.prs." neg="0">wile</match> oþþe him o æthrineð</z>
+		<z nr="26">þonne forbærnað hy sona eal his lic .</z>
+		<z nr="27"><trans en="That is extraordinary magic."/>þæt syndon ungefrægelicu liblac .</z>
+		<z nr="28"><trans en="Wild beasts are also born there."/>Eac þonne þær beoð wildeor acenned .</z>
+		<z nr="29"><trans en="When these wild beasts hear a human voice, they run far away."/>þa deor þonne hy mannes stefne <match pfx="ge" lm="hīeran" sem="kognitiv" status="?" gram="3.sg.ind.prs." neg="0" clause="tempSatz" cnj="þonne" obj="sub" obj_cs="akk" ad="stefn" ad_bel="unbel">gehyrað</match> , þonne fleoð hy</z>
+		<z nr="30">feor .</z>
+		<z nr="31"><trans en="The beasts have eight feet, and valkyrie-eyes, and two heads."/>þa deor habbað eahta fet , &amp; wælcyrian eagan , &amp; twa heafdu .</z>
+		<z nr="32"><trans en="If anyone tries to touch them, they set their bodies aflame."/>Gif him hwylc mon onfon <match lm="willan" status="modalverb" gram="3.sg.cnj.prs." neg="0">wille</match> þonne hiera lichoman</z>
+		<z nr="33">þæt hy onælað .</z>
+		<z nr="34"><trans en="They are extraordinary beasts."/>þæt syndon þa ungefrægelicu deor .</z>
+		<z nr="35"><trans en="This place contains serpents."/>þeos stow hafað nædran .</z>
+		<z nr="36"><trans en="The serpents have two heads, whose eyes shine at night as brightly as lanterns."/>þa nædran habbað twa heafdu , þara eagan scinað nihtes</z>
+		<z nr="37">swa leohte swa blæcern .</z>
+		<z nr="38"><trans en="In one land there are born donkeys which have horns as big as oxen’s. They are in that very great wasteland which is in the southern part of Babylonia. They live near the Red Sea, because of the multitude of snakes called Corsiae which are in those places. They have horns as big as ram's. If they strike or touch anyone, he immediately dies." note="bearb."/>On sumon lande eoselas beoð acende þa habbað swa micle</z>
+		<z nr="39">hornas swa oxan &#8228;</z>
+		<z nr="40">þa syndon on þære mæstan wæstene þæt is on þa</z>
+		<z nr="41">suð healfe from babiloniam þa <match pfx="0" lm="būan" status="prc-only" gram="3.pl.ind.prs." neg="0" clause="HS">buað</match> to þæm readan</z>
+		<z nr="42">sæ , for þara nædrena mænego þe in þæm stowum beoð</z>
+		<z nr="43">þa <match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.pl.ind.prs.pass." neg="0" clause="app" obj="prn" obj_cs="nom" ad="þā" ad_bel="anim">hatton</match> corsias &#8228;</z>
+		<z nr="44">þa habbað swa micle hornas swa weðeras &#8228;</z>
+		<z nr="45">Gif hy hwilcne man <match pfx="0" lm="slēan" sem="schlagen" status="reste" gram="3.sg.ind.prs." neg="0" clause="kondSatz" cnj="ġif" obj="sub" obj_cs="akk" ad="mann" ad_bel="bel">sleað</match> oþþe a æthrineð þonne</z>
+		<z nr="46"><match pfx="0" lm="sweltan" sem="sterben" status="keep" gram="3.pl.ind.prs." neg="0" clause="HS" adv_tmp="sōna">swylteð</match> he sona .</z>
+		<z nr="47"><trans en="In those lands there is an abundance of pepper. The snakes keep the pepper in their eagerness."/>On þam landum bið pipores genihtsumnis &#8228;</z>
+		<z nr="48">þone pipor <match pfx="0" lm="healdan" sem="behalten" status="sem" gram="3.sg.ind.prs." neg="0" obj="sub" obj_cs="akk" ad="pipor" ad_bel="unbel" clause="HS">healdaþ</match> þa næddran on heora</z>
+		<z nr="49">geornnesse .</z>
+		<z nr="50"><trans en="In order to take the pepper people set fire to the place and then the snakes flee from the high ground into the earth; because of this the pepper is black."/>þone pipor mon swa <match pfx="0" lm="niman" status="?" gram="3.sg.ind.prs." neg="0" clause="HS" obj="sub" obj_cs="akk" ad="pipor" ad_bel="unbel">nimeð</match> þæt mon þa stowe mid fyre</z>
+		<z nr="51">onæleð &amp; þa nædran þonne of dune on þa eorþan</z>
+		<z nr="52">þæt fleoð , for þon se pipor bið sweart .</z>
+		<z nr="53"><trans en="From Babylon to the city of Persia where the pepper grows is in the lesser measure which is called stadia 800 units."/>From babiloniam oð persiam þa burh þar se pipor <match pfx="0" lm="weaxan" status="prc-only" gram="3.sg.ind.prs." neg="0" clause="indFrag" ad="þǣr" ad_bel="unbel">weaxeð</match> is</z>
+		<z nr="54">þæs læssan milgeteles þe stadia <match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.sg.ind.prs.pass." neg="0" clause="relSatz-a" cnj="þe" obj="prn" obj_cs="nom" ad="ġetæl" ad_bel="unbel">hatte</match> eahta hund mila .</z>
+		<z nr="55"><trans en="It is reckoned in the greater measure that is called leuuae six hundred and twenty-three and a half units."/>Of þæm <match lm="wesan" status="aux" gram="3.sg.ind.prs.">is</match> <match pfx="ge" lm="tellan" status="prc-only" gram="3.sg.ind.perf.pass." neg="0" clause="HS">geteald</match> þæs miclan milgeteles þe leones <match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.sg.ind.prs.pass." neg="0" clause="relSatz-a" cnj="þe" obj="prn" obj_cs="nom" ad="ġetæl" ad_bel="unbel">hatte</match></z>
+		<z nr="56">vi hund &amp; xxiii , &amp; an healf mil .</z>
+		<z nr="57"><trans en="The place is barren because of the multitude of the snakes."/>Seo stow is unwæstmberenlicu for þara nædrena mænego .</z>
+		<z nr="58"><trans en="Also there are born there half-dogs who are called Conopenae."/>Eac swylce þær <match lm="bēon" status="aux" gram="3.pl.ind.prs.">beoð</match> <match pfx="0" lm="cennan" status="unpräf" gram="3.pl.ind.perf.bpass." neg="0" clause="HS">cende</match> healfhundingas þa <match lm="wesan" status="aux" gram="3.pl.ind.prs.">syndon</match></z>
+		<z nr="59"><match pfx="0" lm="hātan" sem="nennen" status="sem" gram="3.pl.ind.perf.pass." neg="0" clause="app" cnj="þā" obj="prn" obj_cs="nom" ad="hund" ad_bel="anim">hatene</match> conopenas .</z>
+		<z nr="60"><trans en="They have horses' manes and boars' tusks and dogs' heads and their breath is like a fiery flame."/>Hy habbað horses mana &amp; eoferes tuxas &amp; hunda heafdu &amp;</z>
+		<z nr="61">heora oroð bið swylce fyres leg .</z>
+		<z nr="62"><trans en="These lands are near the cities which are filled with all the worldly wealth: that is, in the south of Egypt."/>þas land <match lm="bēon" status="aux" gram="3.pl.ind.prs.">beoð</match> neah þæm burgum þe <match lm="bēon" status="aux" gram="3.pl.ind.prs.">beoð</match> eallum worldwelum</z>
+		<z nr="63"><match pfx="ge" lm="fyllan" sem="faktitiv" status="q-hapax" gram="3.pl.ind.perf.bpass." neg="0" clause="relSatz" cnj="þe">gefylled</match> , þæt is on þa suð healfe egyptana landes .</z>
+		<z nr="64"><trans en="In one land people are born who are six feet tall. They have beards to their knees, and hair to their heels. They are called Homodubii, that is 'doubtful ones', and they eat raw fish and live on them."/>On sumon lande beoð men acende þa beoð</z>
+		<z nr="65">on lenge syx fotmæla &#8228;</z>
+		<z nr="66">Hi habbað beardas oþ cneow side &amp; feax oð helan &#8228;</z>
+		<z nr="67">Homodubii hy <match lm="wesan" status="aux" gram="3.pl.ind.prs.">syndon</match> <match pfx="0" lm="hātan" sem="nennen" status="sem" gram="3.pl.ind.perf.pass." neg="0" clause="HS" obj="prn" obj_cs="nom" ad="hīe" ad_bel="bel">hatene</match> , þæt beoð twimen , &amp; be hreawum</z>
+		<z nr="68">fixum hy <match pfx="0" lm="lifian" status="keep" gram="3.pl.ind.prs." neg="0" clause="HS">lifiað</match> &amp; þa <match pfx="0" lm="etan" status="?" gram="3.pl.ind.prs." neg="0" clause="HS" obj="prn" obj_cs="akk" ad="þā" ad_bel="anim">etaþ</match> .</z>
+		<z nr="69"><trans en="The river is named Capi in the same place, which is called Gorgoneus, that is 'valkyrie-like'."/>Capi <match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.sg.ind.prs.pass." neg="0" clause="HS" obj="sub" obj_cs="nom" ad="ēa" ad_bel="unbel">hatte</match> seo ea in þære ilcan stowe þe <match lm="wesan" status="aux" gram="3.sg.ind.prs.">is</match> <match pfx="0" lm="hātan" sem="nennen" status="sem" gram="3.sg.ind.perf.pass." neg="0" clause="relSatz" cnj="þe" obj="prn" obj_cs="nom" ad="stōw" ad_bel="unbel">haten</match></z>
+		<z nr="70">gorgoneus , þæt is wælkyrging .</z>
+		<z nr="71"><trans en="Ants are born there as big as dogs,"/>þær <match lm="bēon" status="aux" gram="3.pl.ind.prs.">beoð</match> <match pfx="0" lm="cennan" status="unpräf" gram="3.pl.ind.perf.bpass." neg="0" clause="HS">cende</match> æmetan swa micle swa hundas .</z>
+		<z nr="72"><trans en="[They] have feet like grasshoppers, and are of red and black color."/>Hy habbaþ swelce fet swa græshoppan , hy syndon reades</z>
+		<z nr="73">heowes &amp; blaces heowes .</z>
+		<z nr="74"><trans en="The ants dig up gold from the ground from before night to the fifth hour of the day."/>þa æmettan delfað gold up of eorþan from foran nihte oð</z>
+		<z nr="75">ða fiftan tid dæges .</z>
+		<z nr="76"><trans en="People who are bold enough to take the gold bring with them male camels, and females with their young."/>þa men þe to þon dyrstige beoð þæt hi þæt gold <match pfx="0" lm="niman" status="?" gram="3.pl.cnj.prs." neg="0" clause="konsek" cnj="tō+" obj="sub" obj_cs="akk" ad="gold" ad_bel="unbel">nimen</match></z>
+		<z nr="77">þonne <match pfx="0" lm="lǣdan" sem="bringen" status="aspekt" gram="3.pl.ind.prs." neg="0" clause="HS" obj="prn" obj_cs="akk" pr_obj="mid+" ad="hīe" ad_bel="anim" adv_tmp="þonne" ann="reflexiv?">lædað</match> hy mid him olfendan meran mid</z>
+		<z nr="78">hyra folan &amp; stedan .</z>
+		<z nr="79"><trans en="They tie up the young before they cross the river."/>þa folan hy <match pfx="ge" lm="sǣlan" status="hapax" gram="3.pl.ind.prs." neg="0" clause="HS">gesælað</match> ær hy ofer þa ea <match pfx="0" lm="faran" sem="motion" status="gram" gram="3.pl.cnj.prs." neg="0" clause="tempSatz" cnj="ǣr">faren</match> .</z>
+		<z nr="80"><trans en="They load the gold onto the females, and mount them themselves, and leave the males there."/>þæt gold hi RYPINS : hio <match pfx="ge" lm="fǣtan" status="hapax" gram="3.pl.ind.prs." neg="0" clause="HS">gefætað</match> on þa meran &amp; hy</z>
+		<z nr="81">sylfe onsittað &amp; þa stedan þær forlætað .</z>
+		<z nr="82"><trans en="Then the ants detect the males, and while the ants are occupied with the males,"/>þonne þa æmettan hy onfindað &amp; þa hwile þe þa æmettan</z>
+		<z nr="83">embe þone stedan abysgode beoð .</z>
+		<z nr="84"><trans en="the men cross over the river with the females and the gold."/>þonne þa men mid þam meran &amp; mid þam golde ofer þa ea</z>
+		<z nr="85"><match pfx="0" lm="faran" sem="motion" status="gram" gram="3.pl.ind.prs." neg="0" clause="HS" ad="ofer" ad_bel="unbel">fareð</match> , <anm text=". Hy"/></z>
+		<z nr="86"><trans en="They are so swift that one would think that they were flying."/>hy beoð swa hrædlice ofer</z>
+		<z nr="87">þære ea</z>
+		<z nr="88">þæt men wenað þæt hy fleogan .</z>
+		<z nr="89"><trans en="Between these two rivers is a colony called Locotheo, which is situated between the Nile and the Brixontes."/>Betwih þysson twam ean is londbunis locotheo <match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.sg.ind.prs.pass." neg="0" clause="app" obj="sub" obj_cs="nom" ad="būnis" ad_bel="unbel">hatte</match> , þæt</z>
+		<z nr="90"><match lm="wesan" status="aux" gram="3.sg.ind.prs.">is</match> betwih nile &amp; bryxontes <match pfx="ge" lm="settan" sem="befindlich" status="aspekt" gram="3.sg.ind.perf.pass." neg="0" clause="relSatz" cnj="þæt" obj="prn" obj_cs="nom" ad="þæt" ad_bel="unbel" pr_obj="betwux+">geseted</match> .</z>
+		<z nr="91"><trans en="The Nile is the prince of foul rivers, and flows through Egypt."/>Seo nil is ealdor fullicra ea , &amp; heo floweð of egypta lande .</z>
+		<z nr="92"><trans en="And they call the river Archoboleta, which means 'great water'."/>And hi nemnað þa ea archoboleta þæt <match lm="wesan" status="aux" gram="3.sg.ind.prs.">is</match> <match pfx="0" lm="hātan" sem="bedeuten" status="sem" gram="3.sg.ind.perf.pass." neg="0" clause="relSatz" cnj="þæt" obj="prn" obj_cs="nom" ad="þæt" ad_bel="unbel">haten</match> þæt</z>
+		<z nr="93">micle wæter .</z>
+		<z nr="94"><trans en="In these regions are born great multitudes of elephants."/>On þyssum stowum beoð acende þa miclan mænego olfenda .</z>
+		<z nr="95"><trans en="There are people born there, who are fifteen feet tall and have white bodies and two faces on a single head, feet and knees very red, and long noses and black hair." note="bearb."/>ðær <match lm="bēon" status="aux" gram="3.pl.ind.prs.">beoð</match> <match pfx="0" lm="cennan" status="unpräf" gram="3.pl.ind.perf.bpass." neg="0" clause="HS">cende</match> men , hy beoð fiftyne fota lange &amp; hy</z>
+		<z nr="96">habbað hwit lic &amp; twa neb on anum heafde ,</z>
+		<z nr="97">fet &amp; cneowu swyðe reade , &amp; lange nosa &amp; sweart feax .</z>
+		<z nr="98"><trans en="When they want to give birth, they travel in ships to India, and bring their young into the world there."/>þonne hy <match pfx="0" lm="cennan" status="unpräf" gram="inf." reg="willan" neg="0" clause="tempSatz" cnj="þonne">cennan</match> <match lm="willan" status="modalverb" gram="3.pl.ind.prs." neg="0">willað</match> þonne <match pfx="0" lm="faran" sem="motion" status="gram" gram="3.pl.ind.prs." neg="0" clause="HS" adv_tmp="þonne…" pr_obj="tō+" ad_bel="unbel">farað</match> hy on scipum to</z>
+		<z nr="99">indeum , &amp; þær hyra gecynda in world <match pfx="0" lm="bringan" sem="gebären" status="aspekt" gram="3.pl.ind.prs." neg="0" obj="sub" obj_cs="akk" pr_obj="in+" ad="ġecynd" ad_bel="bel" clause="HS" phen="iter">bringaþ</match> .</z>
+		<z nr="100"><trans en="There is a land called Ciconia in Callia, where people are born of three colors, whose heads have manes like lions' heads, and they are twenty feet tall, and have mouths as big as fans."/>Ciconia in gallia <match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.sg.ind.prs.pass." neg="0" clause="HS" obj="sub" obj_cs="nom" ad="land" ad_bel="unbel">hatte</match> þæt land þær beoð men acende</z>
+		<z nr="101">on ðrys heowes , þara heafdu beoð gemonu</z>
+		<z nr="102">swa leona heafdu , &amp; hi beoð xx fota lange &amp; hy</z>
+		<z nr="103">habbað micelne muð swæ fon .</z>
+		<z nr="104"><trans en="If they see or perceive anyone in those lands, or if anyone is following them, then they take flight and flee, and sweat blood."/>Gyf hwylcne monnan on þæm landum ongitað oððe <match pfx="ge" lm="sēon" sem="kognitiv" status="q-hapax" gram="3.pl.ind.prs." neg="0" clause="kondSatz" cnj="ġif" obj="sub" obj_cs="akk" ad="mann" ad_bel="bel">geseoþ</match></z>
+		<z nr="105">oððe him hwilc man folgiende bið , þonne feor</z>
+		<z nr="106">hi RYPINS : þæt hi fleoð &amp; blode hy swætað .</z>
+		<z nr="107"><trans en="They are thought to be men."/>þas <match lm="bēon" status="aux" gram="3.pl.ind.prs.">beoð</match> men <match pfx="ge" lm="wēnan" status="prc-only" gram="3.pl.ind.perf.bpass." neg="0" clause="HS">gewende</match> .</z>
+		<z nr="108"><trans en="Beyond the River Brixontes, east from there, there are people born big and tall, who have feet and shanks twelve feet long, flanks with chests seven feet long."/>Begeondan brixonte þære ea east þonon beoð men acende</z>
+		<z nr="109">lange &amp; micle , þa habbað fet &amp; sconcan</z>
+		<z nr="110">xii fota lange , sidan mid breostum seofon fota lange .</z>
+		<z nr="111"><trans en="[…], and are called Hostes."/>Hostes hy synd nemned cuþlice .</z>
+		<z nr="112"><trans en="As certainly as they catch a person they devour him."/>Swa hwylcne man swa hy <match pfx="ge" lm="lǣċan" status="aspekt" gram="3.pl.ind.prs." neg="0" clause="indFrag" cnj="hwelċ" obj="sub" obj_cs="akk" ad="mann" ad_bel="bel">gelæccað</match> þonne fretað hi hyne .</z>
+		<z nr="113"><trans en="Then there are on the Brixontes wild animals which are called Lertices."/>ðonne <match lm="wesan" gram="3.pl.ind.prs." neg="0" status="aux">seondon</match> wildeor þa <match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.pl.ind.prs.pass." neg="0" clause="HS" obj="prn" obj_cs="nom" ad="þā" ad_bel="anim">hatton</match> lertices .</z>
+		<z nr="114"><trans en="They have donkeys ears and sheep's wool and bird's feet."/>Hy habbað eoseles earan &amp; sceapes wulle &amp; fugeles fet .</z>
+		<z nr="115"><trans en="Then there is another island, south of the Brixontes, on which there are born men without heads who have their eyes and mouth in their chests."/>þonne syndon oþere ealond suð from brixonte</z>
+		<z nr="116">on þon beoð men buton heafdum &#8228;</z>
+		<z nr="117">þa habbað on hyra breostum heora eagan &amp; muð .</z>
+		<z nr="118"><trans en="They are eight feet tall and eight feet wide."/>Hy <match lm="wesan" gram="3.pl.ind.prs." neg="0" status="aux">seondon</match> eahta fota lange &amp; eahta fota brade .</z>
+		<z nr="119"><trans en="Dragons are born there, who are one hundred and fifty feet long, and are as thick as great stone pillars."/>ðar <match lm="bēon" status="aux" gram="3.pl.ind.prs.">beoð</match> dracan <match pfx="0" lm="cennan" status="unpräf" gram="3.pl.ind.perf.bpass." neg="0" clause="HS">cende</match> , þa beoð on lenge</z>
+		<z nr="120">hundteontiges fotmæla lange &amp; fiftiges &#8228;</z>
+		<z nr="121">Hy beoð greate swa stænene sweras micle .</z>
+		<z nr="122"><trans en="Because of the abundance of the dragons, no one can easily travel in(to) that land." note="bearb."/>For þara dracena micelnesse ne <match lm="magan" status="modalverb" gram="3.sg.ind.prs." neg="ne">mæg</match> nan manna yþelice on</z>
+		<z nr="123">þæt land <match pfx="ge" lm="faran" sem="motion" status="gram" gram="inf." reg="magan" neg="ne+nān" pr_obj="on+a" ad_bel="unbel" clause="HS" ann="!!">gefaran</match> .</z>
+		<z nr="124"><trans en="From this place there is another country on the south side of the ocean, which is reckoned in the lesser measurement known as stadia 323, and in the greater which is called leuuae 255."/>From þisse stowe is oðer rice on þa suð healfe</z>
+		<z nr="125">garsegcges , þæt <match lm="wesan" status="aux" gram="3.sg.ind.prs.">is</match> <match pfx="ge" lm="tellan" status="prc-only" gram="3.sg.ind.perf.pass." neg="0" clause="app">geteald</match> þæs læssan milgeteles</z>
+		<z nr="126">þe stadia <match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.sg.ind.prs.pass." neg="0" clause="relSatz-a" cnj="þe" obj="prn" obj_cs="nom" ad="ġetæl" ad_bel="unbel">hatte</match> ccc &amp; xxxiii , &amp; þæs miclan þe</z>
+		<z nr="127">leones <match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.sg.ind.prs.pass." neg="0" clause="relSatz-a" cnj="þe" obj="prn" obj_cs="nom" ad="ġetæl" ad_bel="unbel">hatte</match> cc liii &amp; an mil .</z>
+		<z nr="128"><trans en="There are born there Homodubii, that is 'doubtful ones'."/>þær <match lm="bēon" status="aux" gram="3.pl.ind.prs.">beoð</match> <match pfx="0" lm="cennan" status="unpräf" gram="3.pl.ind.perf.bpass." neg="0" clause="HS">cende</match> homodubii þæt beoð twylice twimen <trans en="They have a human shape to the navel and below that the shape of a donkey, and they have long legs like birds, and a soft voice."/>Hy</z>
+		<z nr="129">habbaþ oð ðone nafolan on menniscum gesceape</z>
+		<z nr="130">&amp; syþþan on eoseles gelicnesse &amp; hy habbað longe sconcan</z>
+		<z nr="131">swa fugelas &amp; liþelice stefne .</z>
+		<z nr="132"><trans en="If they see or perceive anyone in those lands, they run far off and flee."/>Gif hy hwilcne man on þæm landum ongytað oððe <match pfx="ge" lm="sēon" sem="kognitiv" status="q-hapax" gram="3.pl.ind.prs." neg="0" clause="kondSatz" cnj="ġif" obj="sub" obj_cs="akk" ad="mann" ad_bel="bel">geseoð</match></z>
+		<z nr="133">þonne fleoð hy feor .</z>
+		<z nr="134"><trans en="Then there is another place with barbarous people, and they have kings under them to the number of 110."/>ðonne is oþer stow elreordge men beoð on , &amp; þa habbað</z>
+		<z nr="135">cynigas under þara <match lm="wesan" status="aux" gram="3.sg.ind.prs.">is</match> <match pfx="ge" lm="tellan" status="prc-only" gram="3.sg.ind.perf.pass." neg="0" clause="HS">geteald</match> c .</z>
+		<z nr="136"><trans en="They are the worst and most barbarous people, and there are two lakes there, one of the sun and the other of the moon."/>þæt syndon þa wyrstan men &amp; þa elreordegestan .</z>
+		<z nr="137">And þar syndon twegen seaþas , oþer is sunnan oþer monan .</z>
+		<z nr="138"><trans en="The suds lake is hot in the day and cold at night, and the moon's lake is hot at night and cold in the day."/>Se sunnan seað se bið dæges hat &amp; nihtes ceald , &amp; se monan</z>
+		<z nr="139">seað se bið nihtes hat &amp; dæges ceald .</z>
+		<z nr="140"><trans en="Their width is in the lesser measurement which is called stadia 200 units and in the greater called leuuae one hundred and thirty-three and a half."/>Heora widnes is cc þæs læssan milgeteles stadia and</z>
+		<z nr="141">þæs maran þe leones <match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.sg.ind.prs.pass." neg="0" clause="relSatz-a" cnj="þe" obj="prn" obj_cs="nom" ad="ġetæl" ad_bel="unbel">hatte</match> cxxxiii &amp; an healf mil .</z>
+		<z nr="142"><trans en="In this place there are kinds of trees which are like laurel and olive."/>On þisse stowe beoð treowcyn þa beoð lawernbeame &amp;</z>
+		<z nr="143">eletreowum onlice .</z>
+		<z nr="144"><trans en="From these trees the most expensive oil, balsam, is wholly produced."/>Of þæm treowum balzamum se deorweorðesta ele bið acenned .</z>
+		<z nr="145"><trans en="The place is in the lesser measurement that is called stadia 151 and in the greater which is called leuuae fifty-one."/>Seo stow is þæs læssan milgeteles þe stadia <match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.sg.ind.prs.pass." neg="0" clause="relSatz-a" cnj="þe" obj="prn" obj_cs="nom" ad="ġetæl" ad_bel="unbel">hatte</match></z>
+		<z nr="146">c li &amp; þæs miclan þe leones lii .</z>
+		<z nr="147"><trans en="Then there is an island in the Red Sea where there is a race of people we call Donestre, who have grown like soothsayers from the head to the navel, and the other part is human. And they know all human speech."/>ðonne is sum ealond in þære readan sæ , þær is</z>
+		<z nr="148">mancyn þæt is mid us donestre nemned , þa <match lm="wesan" status="aux" gram="3.pl.ind.prs.">syndon</match></z>
+		<z nr="149"><match pfx="ge" lm="weaxan" status="prc-only" gram="3.pl.ind.perf.act." neg="0" clause="app">geweaxene</match> swa frihteras fram þam heafde oð ðone</z>
+		<z nr="150">nafolan , &amp; se oðer dæl bið mennisce onlic &#8228;</z>
+		<z nr="151">And hy <match pfx="0" lm="cunnan" sem="können" status="?" gram="3.pl.ind.prs." neg="0" clause="HS" obj="sub" obj_cs="akk" ad="ġereord" ad_bel="unbel">cunnon</match> mennisce gereord .</z>
+		<z nr="152"><trans en="When they see someone from a foreign country, they name him and his kinsmen with the names of acquaintances, and with lying words they beguile him and capture him, and after that eat him all up except for the head, and then sit and weep over the head."/>þonne hy fremdes cynnes mannan <match pfx="ge" lm="sēon" sem="kognitiv" status="q-hapax" gram="3.pl.ind.prs." neg="0" clause="tempSatz" cnj="þonne" obj="sub" obj_cs="akk" ad="mann" ad_bel="bel">geseoð</match> , þonne nemnað hy</z>
+		<z nr="153">hyne &amp; his magas cuþra manna naman , &amp; mid leaslicum</z>
+		<z nr="154">wordum hy hine beswicað , &amp; hine <match pfx="ge" lm="fōn" status="?" gram="3.pl.ind.prs." neg="0" clause="HS" adv_tmp="þonne…">gefoð</match> , &amp;</z>
+		<z nr="155">æfter þan hy hine fretað ealne buton þon</z>
+		<z nr="156">heafde &amp; þonne <match pfx="0" lm="sittan" status="sem" gram="3.pl.ind.prs." neg="0" clause="HS" adv_tmp="þonne" obj="0">sittað</match> &amp; wepað ofer þam heafde .</z>
+		<z nr="157"><trans en="Going east from there is a place where people are born who are in size fifteen feet tall and ten broad."/>ðonne is east þær beoð men acende þa beoð on wæstme</z>
+		<z nr="158">fiftyne fota lange &amp; x brade .</z>
+		<z nr="159"><trans en="They have large heads and ears like fans."/>Hy habbað micel heafod &amp; earan swæ fon .</z>
+		<z nr="160"><trans en="They spread one ear beneath them at night, and they wrap themselves with the other."/>Oþer eare hy him on niht underbredað , &amp; mid oþran hy</z>
+		<z nr="161">wreoð .</z>
+		<z nr="162"><trans en="Their ears are very light and their bodies are as white as milk."/>Him beoð þa earan swiðe leohte &amp; hy beoð swa on lichoman</z>
+		<z nr="163">swa hwite swa meolc .</z>
+		<z nr="164"><trans en="And if they see or perceive anyone in those lands, they take their ears in their hands and go far and flee, so swiftly one might think that they flew."/>Gyf hy hwilcne mannan on þæm lande <match pfx="ge" lm="sēon" sem="kognitiv" status="q-hapax" gram="3.pl.ind.prs." neg="0" clause="kondSatz" cnj="ġif" obj="sub" obj_cs="akk" ad="mann" ad_bel="bel">geseoð</match> oðþe</z>
+		<z nr="165">ongytað , þonne <match pfx="0" lm="niman" status="?" gram="3.pl.ind.prs." neg="0" obj="sub" obj_cs="akk" ad="ēare" ad_bel="unbel" clause="HS" adv="ġif…">nymað</match> hy hyra earan him on hand</z>
+		<z nr="166">&amp; fleoð swyðe , swa hrædlice swa is wen þæt hy fleogen .</z>
+		<z nr="167"><trans en="Then there is an island on which people are born whose eyes shine as brightly as if one had lit a great lantern on a dark night."/>ðonne is sum ealond on þæm beoð men acende þara eagan</z>
+		<z nr="168">scinaþ swa leohte swa man</z>
+		<z nr="169">micel blacern onele þeostre nihte .</z>
+		<z nr="170"><trans en="Then there is an island, which is in length and breadth in the lesser measurement that is called stadia 360, and in the greater called leuuae 90."/>ðonne is sum ealond þæt is þæs læssan milgeteles þe</z>
+		<z nr="171">stadia <match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.sg.ind.prs.pass." neg="0" clause="relSatz-a" cnj="þe" obj="prn" obj_cs="nom" ad="ġetæl" ad_bel="unbel">hatte</match> on lenge &amp; on bræde ccc &amp; lx ,</z>
+		<z nr="172">&amp; þæs miclan þe leones <match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.sg.ind.prs.pass." neg="0" clause="relSatz-a" cnj="þe" obj="prn" obj_cs="nom" ad="ġetæl" ad_bel="unbel">hatte</match> cx .</z>
+		<z nr="173"><trans en="There was built in the days of Belus the king and Jove a temple made from wrought iron and brass."/>þær <match lm="wesan" status="aux" gram="3.sg.ind.prt.">wæs</match> <match pfx="ge" lm="timbrian" status="prc-only" gram="3.sg.ind.pperf.pass." neg="0" clause="HS" ann="Form!">getymbro</match> on beles dagum &amp; iobes temple of isernum</z>
+		<z nr="174">geworcum &amp; of glæsgegotum .</z>
+		<z nr="175"><trans en="And in the same place there is east from there another temple, sacred to the sun, in which is ordained a fine and gentle priest, and he governs the halls and looks after them."/>And on þære ilcan stowe is æt sunnan upgange setl</z>
+		<z nr="176">quietus þæs stillestan bisceopes se nænine</z>
+		<z nr="177">oþerne mete ne þige buton sæ ostrum &amp; be þam he</z>
+		<z nr="178"><match pfx="0" lm="lifian" status="keep" gram="3.sg.ind.prt." neg="0" clause="relSatz" cnj="be+">lifede</match> .</z>
+		<z nr="179"><trans en="Then there is a golden vineyard near the rising of the sun which has berries of 150 feet."/>ðonne is gylden wingeard æt sunnan upgonge se hafað</z>
+		<z nr="180">bergean hundteontiges fotmæla</z>
+		<z nr="181">&amp; fiftiges .</z>
+		<z nr="182"><trans en="On them, berries are produced like pearls or jewels."/>Of þæm bergean <match lm="bēon" status="aux" gram="3.pl.ind.prs.">beoð</match> <match pfx="0" lm="cennan" status="unpräf" gram="3.pl.ind.perf.bpass." neg="0" clause="HS">cende</match> saragimmas .</z>
+		<z nr="183"><trans en="There is another kingdom in the lands of Babylon where there is found the biggest mountain between the mountain of Media and of Armenia."/>ðonne is oþer rice on babilonia landum þær is seo</z>
+		<z nr="184">mæste dun betwih meda dune &amp; armoenia .</z>
+		<z nr="185"><trans en="It is the biggest and highest mountain of all."/>Seo is ealra duna mæst &amp; hyhst .</z>
+		<z nr="186"><trans en="There are decent people there who have power and dominion over the Red Sea."/>þær syndon gedefelice menn þa habbað him</z>
+		<z nr="187">to cynedome þone readan sæ &amp; to anwalde .</z>
+		<z nr="188"><trans en="Precious jewels are produced there."/>þær <match lm="bēon" status="aux" gram="3.pl.ind.prs.">beoð</match> <match pfx="0" lm="cennan" status="unpräf" gram="3.pl.ind.perf.bpass." neg="0" clause="HS">cende</match> sarogimmas .</z>
+		<z nr="189"><anm text="Thus in the DOEC:"/><trans en="It is the biggest and highest mountain of all."/>Seo is ealra duna mæst &amp; higest .</z>
+		<z nr="190"><trans en="There are decent people there who have power and dominion over the Red Sea."/>Þær syndon gedefelice menn þa habbað him</z>
+		<z nr="191">to kynedome &amp; to anwealde þa Readan Sæ .</z>
+		<z nr="192"><trans en="Precious jewels are produced there."/>Þær <match lm="bēon" status="aux" gram="3.pl.ind.prs.">beoð</match> <match pfx="0" lm="cennan" status="unpräf" gram="3.pl.ind.perf.bpass." neg="0" clause="HS">kende</match> þa deorworðan gimmas .</z>
+		<z nr="193"><trans en="Around those places there are born women, who have beards down to their breasts, and have made clothes out of horse's hide."/>Ymb þas stowe beoð wif acenned , þa habbað beardas swa</z>
+		<z nr="194">side oð hyra breost , &amp; horses hyda hy habbað</z>
+		<z nr="195">him to hrægle <match pfx="ge" lm="dōn" sem="herstellen" status="aspekt" gram="3.pl.ind.perf.act." neg="0" clause="HS">gedon</match> .</z>
+		<z nr="196"><trans en="They are called great huntresses, and instead of dogs they breed tigers and leopards, that are the fiercest beasts." note="zu bearb."/>þa <match lm="wesan" status="aux" gram="3.pl.ind.prs.">syndan</match> hundicgean swiðast <match pfx="0" lm="nemnan" sem="nennen" status="tel" gram="3.pl.ind.perf.pass." neg="0" clause="HS">nemde</match> , &amp;</z>
+		<z nr="197">fore hundum tigras &amp; leon</z>
+		<z nr="198">&amp; loxas þæt hy <match pfx="0" lm="fēdan" status="prc-only" gram="3.pl.ind.prs." neg="0" clause="relSatz-a" cnj="þæt" obj="prn" obj_cs="akk" ad="[dēor]" ad_bel="anim">fedað</match> þæt syndon þa cenestan deor .</z>
+		<z nr="199"><trans en="And they hunt for all the kinds of wild beasts which are born on the mountain." note="zu bearb."/>And ealra þara wildeora cyn þe on þære dune acende</z>
+		<z nr="200">beoð mid heora scin þæt hy <match pfx="ge" lm="huntian" gram="3.sg.ind.prs." neg="0" clause="relSatz-a" cnj="þæt" obj="prn" obj_cs="akk" ad="cynn" ad_bel="anim">gehuntiaþ</match></z>
+		<z nr="201"><anm text="MS: to huntiaþ"/> .</z>
+		<z nr="202"><trans en="Then there are other women who have boar's tusks and hair down to their heels and ox-tails on their loins."/>ðonne syndan oþere wif þa habbað eoferes tuxas &amp; feax</z>
+		<z nr="203">oð helan side , &amp; oxan tægl on lendunum .</z>
+		<z nr="204"><trans en="Those women are thirteen feet tall and their bodies are of the whiteness of marble."/>þa wif syndon þryttyne fota lange &amp; hyra lic bið on</z>
+		<z nr="205">marmorstanes hiwnesse .</z>
+		<z nr="206"><trans en="And they have camel's feet and boar's teeth."/>And hy habbað olfendan fet &amp; eoseles teð .</z>
+		<z nr="207"><trans en="Because of their uncleanness they were killed by Alexander the Great of Macedon."/>Of hyra micelnesse hy <match pfx="ge" lm="fyllan" sem="faktitiv" status="q-hapax" gram="3.pl.ind.pperf.pass." neg="0" clause="HS">gefylde</match> <match lm="wesan" status="aux" gram="3.pl.ind.prt.">wæron</match> from þæm miclan</z>
+		<z nr="208">macedoniscan alexandre .</z>
+		<z nr="209"><trans en="He killed them because he could not capture them alive, because they have offensive and disgusting bodies."/>þa cwealde he hy þa he hy <match pfx="0" lm="lifian" status="keep" gram="prc.prs.act.a.pl.m.st." neg="0" clause="kausSatz" cnj="þā">lifiende</match> oferfon ne <match lm="magan" status="modalverb" gram="3.sg.ind.prt." neg="ne">mehte</match> , for</z>
+		<z nr="210">þon hy syndon æwisce on lichoman &amp; unweorþe .</z>
+		<z nr="211"><trans en="By the ocean is a breed of wild animals that is called Catini, and they are very beautiful animals."/>Be þæm garsecge is wildeora cyn þa <match pfx="0" lm="hātan" sem="heißen" status="sem" gram="3.pl.ind.prs.pass." neg="0" clause="app" obj="prn" obj_cs="nom" ad="þā" ad_bel="anim">hatton</match> catinos</z>
+		<z nr="212">þær syndon freawliti deor .</z>
+		<z nr="213"><trans en="And there are people there who live on raw meat and honey."/>And þær syndon men þe be hreawum flæsce , &amp; be hunie</z>
+		<z nr="214">hy <match pfx="0" lm="lifian" status="keep" gram="3.pl.ind.prs." neg="0" clause="relSatz-a" cnj="þe">lifiað</match> .</z>
+		<z nr="215"><trans en="On the left-hand side of the kingdom in which there are wild animals called Catini, there are hospitable people, kings who have subdued many tyrants."/>On þæm wynstran dæle þæs rices þe þa deor on beoð</z>
+		<z nr="216">catinos , &amp; þær beoð gæstliþende men , cyningas</z>
+		<z nr="217">þa habbaþ under monigfealde leod hatan .</z>
+		<z nr="218"><trans en="Their boundaries border on the Ocean,"/>Heora landgemæra <match pfx="0" lm="būan" status="prc-only" gram="3.pl.ind.prs." neg="0" clause="HS">buaþ</match> neah þæm garsecge .</z>
+		<z nr="219"><trans en="and from there, from the left-hand section, there are many kings."/>þanon fræm þæm wynstran dæle syndon fela cyninga .</z>
+		<z nr="220"><trans en="This race of people live for many years, and they are generous people."/>ðis mancyn <match pfx="0" lm="lifian" status="keep" gram="3.sg.ind.prs." neg="0" clause="HS">lyfað</match> fela geara , &amp; hy syndon fremfulle men .</z>
+		<z nr="221"><trans en="If anyone visits them they give him a woman before they let him go."/>Gif hwilc mon him to <match pfx="0" lm="cuman" sem="motion" status="prc-only" gram="3.sg.ind.prs." neg="0" clause="kondSatz" cnj="ġif" pr_obj="tō+">cymð</match> þon gifað hy him wif ær hy</z>
+		<z nr="222">hine onweg læten .</z>
+		<z nr="223"><trans en="When Alexander of Macedon visited them, he was amazed at their humanity, and would not kill them or cause them any harm."/>Se macedonisca alexander þa he him to <match pfx="0" lm="cuman" sem="motion" status="prc-only" gram="3.sg.ind.prt." neg="0" clause="tempSatz" cnj="þā" pr_obj="tō+">com</match> , þa wæs he</z>
+		<z nr="224">wundrende <anm text="RYPINS: wundriende"/> hyra menniscnesse , ne</z>
+		<z nr="225"><match lm="willan" status="modalverb" gram="3.sg.ind.prt." neg="ne">wolde</match> he hi cwellan ne him nan lað <match pfx="0" lm="dōn" sem="tun" status="aspekt" gram="inf." reg="willan" neg="ne+ne+nā" clause="HS" obj="sub" obj_cs="akk" ad="lāþ" ad_bel="unbel" pr_obj="dat">don</match> .</z>
+		<z nr="226"><trans en="Then there are kinds of tree from which the most precious stones are produced, and upon which they grow."/>ðonne syndon treowcyn on þæm þa deorwyrþystan stanas</z>
+		<z nr="227">synd of acende , þonon hy growað .</z>
+		<z nr="228"><trans en="There is another race of people there of black color to look at, who are called Ethiopians."/>ðær moncyn is seondon sweartes hyiwes on onsyne , þa</z>
+		<z nr="229">mon <match pfx="0" lm="hātan" sem="nennen" status="sem" gram="3.pl.ind.prs." neg="0" clause="app" obj="prn" obj_cs="2akk" ad="þā" ad_bel="bel">hateð</match> sigelwara . </z>
+	</lpp>
+</document>
